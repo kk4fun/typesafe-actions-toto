@@ -1,2 +1,1 @@
-# typesafe-actions-toto
-Created with CodeSandbox
+# Typesafe-Actions Reference Project
